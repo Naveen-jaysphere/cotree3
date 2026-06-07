@@ -1,0 +1,6 @@
+{
+  "name": "C&O Tree Service",
+  "description": "Professional tree removal and tree trimming services for Nashville and surrounding areas, owned by Ingrid since 2019.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
